@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i7vGcxTwH+PYVPuXOXeffVc805FOF/56CoZVKrtBySQ=",
+  "Source": "DockerDotNet7",
+  "BasePath": "_content/DockerDotNet7",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

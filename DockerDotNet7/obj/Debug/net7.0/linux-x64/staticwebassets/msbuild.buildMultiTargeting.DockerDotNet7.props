@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DockerDotNet7.props" />
+</Project>

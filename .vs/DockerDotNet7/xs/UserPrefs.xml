@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{9ABA6BFE-A881-4CA8-BC6C-4C40C4A58350}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DockerDotNet7 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/Controllers/ProductController.cs" relfile="DockerDotNet7/Controllers/ProductController.cs" line="58" column="1" />
+      <Breakpoint file="/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/Controllers/ProductController.cs" relfile="DockerDotNet7/Controllers/ProductController.cs" line="45" column="1" />
+      <Breakpoint file="/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/Controllers/ProductController.cs" relfile="DockerDotNet7/Controllers/ProductController.cs" line="32" column="1" />
+      <Breakpoint file="/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/Controllers/ProductController.cs" relfile="DockerDotNet7/Controllers/ProductController.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerDotNet7/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="DockerDotNet7/Models/Product.cs" />
+      <File FileName="DockerDotNet7/Data/AppDbContext.cs" />
+      <File FileName="DockerDotNet7/Services/ICacheService.cs" />
+      <File FileName="DockerDotNet7/Services/CacheService.cs" Line="26" Column="63" />
+      <File FileName="DockerDotNet7/Helpers/ConnectionHelper.cs" Line="11" Column="1" />
+      <File FileName="DockerDotNet7/Controllers/ProductController.cs" Line="45" Column="1" />
+      <File FileName="DockerDotNet7/appsettings.json" />
+      <File FileName="DockerDotNet7/Program.cs" Line="15" Column="130" />
+      <File FileName="DockerDotNet7/ConfigurationManager.cs" />
+      <File FileName="DockerDotNet7/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerDotNet7" expanded="True">
+            <Node name="DockerDotNet7" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

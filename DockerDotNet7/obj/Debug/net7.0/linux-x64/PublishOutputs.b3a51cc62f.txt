@@ -1,0 +1,12 @@
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/DockerDotNet7
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/appsettings.Development.json
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/appsettings.json
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/DockerDotNet7.dll
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/DockerDotNet7.deps.json
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/DockerDotNet7.runtimeconfig.json
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/DockerDotNet7.pdb
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/Microsoft.OpenApi.dll
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbookpro/Projects/DockerDotNet7/DockerDotNet7/bin/Debug/net7.0/linux-x64/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
