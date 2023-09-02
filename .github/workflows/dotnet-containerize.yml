@@ -42,4 +42,4 @@ jobs:
       working-directory: ./DockerDotNet7/
       run: dotnet publish -c Release -p:ContainerImageName=${{ secrets.DOCKER_USERNAME }}/dockerdotnet7
     - name: Push Image
-      run: docker push ${{ secrets.DOCKER_USERNAME }}/dockerdotnet7 --all-tags
+      run: docker push dockerdotnet7 --all-tags
