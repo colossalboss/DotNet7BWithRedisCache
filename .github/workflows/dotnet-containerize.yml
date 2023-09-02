@@ -20,10 +20,10 @@ jobs:
       with:
         dotnet-version: 7.0.x
     - name: Restore dependencies
-      working-directory: ./dotnet7/HelloDocker7/
+      # working-directory: ./dotnet7/HelloDocker7/
       run: dotnet restore
     - name: Build
-      working-directory: ./dotnet7/HelloDocker7/
+      # working-directory: ./dotnet7/HelloDocker7/
       run: dotnet build --no-restore
   docker:
     name:  Docker Build & Push
