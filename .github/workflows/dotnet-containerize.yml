@@ -39,7 +39,7 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
     - name: Build Image
-      working-directory: ./dotnet7/HelloDocker7/
+      #working-directory: ./dotnet7/HelloDocker7/
       run: dotnet publish -c Release -p:ContainerImageName=${{ secrets.DOCKER_USERNAME }}/hellodockerfromdotnet7
     - name: Push Image
       run: docker push ${{ secrets.DOCKER_USERNAME }}/hellodockerfromdotnet7 --all-tags
